@@ -1,0 +1,19 @@
+{ 
+ "utama": ["tophit","topkoin","owner","sticker","report","sc","setemote"],
+ "anime": {"sfw": ["waifu","lick","kiss","awoo","hug","cry","cuddle","bully","megumin","shinobu","neko","slap","wink","dance","poke","glomp","bite","nom","handhold","highfive","wave","smile","yeet","bonk","smug","pat"]},
+ "random": ["truth","dare","slip","menfess","lirik","chara","anime","pinterest","ssweb","randomcolor","chatbot","pikiran","quotes","github","fakta","crinj","wyr","boneka","cecan","cogan","darkjokes","islamic","mobil","programing","tatasurya","wallhp","bocil","ukhty","santuy","rika","hijaber"],
+ "creatif": ["communism","wanted","gun","clown","blur","ad","uncover","drip"],
+ "randomtag": ["jelek","cantik","ganteng","sad","haram","halal","bego","anjing","biadab","ramah","satir","manis","pahit","hitam","rasis","baik","jahat","kaya","miskin","pintar","bodoh","imut","kocak","kadang"],
+ "cek": ["cekjelek","cekcantik","cekganteng","ceksad","cekharam","cekhalal","cekbego","cekanjing","cekbiadab","cekramah","ceksatir","cekmanis","cekpahit","cekhitam","cekrasis","cekbaik","cekjahat","cekkaya","cekmiskin","cekpintar","cekbodoh","cekimut","cekkocak","cekkadang"],
+ "kerangajaib": ["siapakah","apakah","kapankah","bisakah"],
+ "group": ["hidetag","tagal","setname","setdesc","linkgroup","resetlink","kick","add","demote","promote","group","editinfo","antilink","welcome"],
+ "storage": ["getmsg","addmsg","addcmd","getcmd"],
+ "owner": ["broadcast","unban","ban","risetmsg","deletemsg","risetcmd"],
+ "hacker": ["hackbapak","hacksatelit","hacklautan","hackbumi","hackmatahari"],
+ "game": ["asahotak","siapaaku","susunkata","tebakbendera","tebakkalimat","tebakkata","tebaklirik","tebaktebakan","tekateki"],
+ "tagx": ["xjelek","xcantik","xganteng","xsad","xharam","xhalal","xbego","xanjing","xbiadab","xramah","xsatir","xmanis","xpahit","xhitam","xrasis","xbaik","xjahat","xkaya","xmiskin","xpintar","xbodoh","ximut","xkocak","xkadang"],
+ "tagv": ["vjelek","vcantik","vganteng","vsad","vharam","vhalal","vbego","vanjing","vbiadab","vramah","vsatir","vmanis","vpahit","vhitam","vrasis","vbaik","vjahat","vkaya","vmiskin","vpintar","vbodoh","vimut","vkocak","vkadang"],
+ "maker": ["girlneko","sadboy","kaneki","rem","lolimaker"],
+ "audio": ["audio1","audio2","audio3","audio4","audio5","audio6","audio7","audio8","audio9","audio10","audio11","audio12","audio13","audio14","audio15","audio16","audio17","audio18","audio19","audio20"],
+ "download": ["ytmp3","ytmp4","tiktokmp4","tiktokmp3"]
+}
